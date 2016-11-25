@@ -4,7 +4,6 @@ https://angular.io/docs/ts/latest/tutorial/
 
 # Install dependencies
 - `npm install`
-- `npm run typings install`
 
 # Build and start application
 - `npm start`
